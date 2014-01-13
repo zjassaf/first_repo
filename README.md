@@ -5,3 +5,6 @@ my first git repository
 
 
 more text
+
+
+MISTAKE
