@@ -7,4 +7,4 @@ my first git repository
 more text
 
 
-MISTAKE
+deleted mistake
